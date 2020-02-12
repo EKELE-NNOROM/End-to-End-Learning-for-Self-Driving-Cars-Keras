@@ -1,10 +1,9 @@
 # End-to-End-Learning-for-Self-Driving-Cars-Keras
 ![GitHub Logo](/image.png)
 
-End to End Learning for Self Driving Cars based on the Nvidia model by Mariusz Bojarski et al. using Keras
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+
+
+## This is an implementation of the End to End Learning for Self Driving Cars based on the Nvidia model by Mariusz Bojarski et al. using Keras
 
 
 
